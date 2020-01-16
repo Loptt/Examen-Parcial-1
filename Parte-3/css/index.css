@@ -96,12 +96,12 @@ fieldset legend{
     color: #12bf88;
     font-style: oblique;
         overflow: hidden;
+    margin-bottom: 0px;
 }
 .comComment{
-    width: 55%;
-    height: 50px;
     display: inline-block;
-    text-align: right;
+    width: 100%;
+    text-align: left;
     color: #72788D;
         overflow: hidden;
 }
